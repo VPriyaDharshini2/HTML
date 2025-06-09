@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><title>My Website</title></head>
+<body>
+<header class="header">Header</header>
+<nav class="navbar">Nav</nav>
+<section class="content">
+<section>Main</section>
+<aside>Side Bar Content</aside>
+<article>More details</article>
+</section>
+<footer class="footer">Footer</footer>
+</body>
+</html>
