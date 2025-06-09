@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>My Page</title>
+</head>
+<body>
+<div>
+<a href="#bottom">Go to bottom</a>
+</div>
+<p id="myID">
+Hello<br><a href="http://www.google.com" target="_blank">World</a>
+</p>
+<div>
+<h1>Hello World!</h1>
+<div style="color:blue;">Welcome to my site.</div>
+<div style="color:red">Welcome to my site.</div>
+<hr>
+<p title="My Name">My name is <span>Laurence</span> <span></span>Svekis</span>.</p>
+</div>
+<hr>
+<h2 class="blue">Heading 2</h2>
+<h4 class="red">Heading 4</h4>
+<h6 class="green">Heading 6</h6>
+<p>Got to <a href="new.html">New Page</a></p>
+ 
+<p>end Email <a href="mailto:myemail@myemail.com">myemail@myemail.com</a></p>
+<div id="bottom">
+hello world blah blah blah. <a href="#myID">Go to the top element with ID of myID.</a>
+ 
+</div>
+<!-- Add another div here -->
+<!--
+<div>
+Content
+</div>
+-->
+</body>
+</html>
