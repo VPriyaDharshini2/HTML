@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><title>Laurence Svekis Resume</title>
+<head><title>Resume</title>
 <style>
 .footer{
 text-align:center;
@@ -23,7 +23,7 @@ margin:10px;
 </style>
 </head>
 <body>
-<header class="header"><h1>Laurence Svekis Resume</h1></header>
+<header class="header"><h1>Resume</h1></header>
 <nav class="navbar">
 <ul>
 <li><a href="#Exp">Experience</a></li>
@@ -37,8 +37,8 @@ margin:10px;
 Welcome to my website, hope you enjoy it.
 </p>
 <hr>
-<p>My name is Laurence Svekis</p>
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEAtQ9VQ0Z7rA/profile-displayphoto-shrink_200_200/0/1632867219913?e=1639612800&v=beta&t=_B4leYocoUhtPWxzpUx5rcrhOTU4suzGe5CuVXR-IE8">
+<p>My name is pd</p>
+<img src="D:\Important Documents" alt="My Photo">
 </article>
 <section id="Exp">
 <h2>Expereince</h2>
@@ -104,6 +104,6 @@ Welcome to my website, hope you enjoy it.
 Contact me at my email <a href="mailto:laurenceSvekis@myemail.com">My Email Address</a>
 </p>
 </section>
-<footer class="footer">Copyright (c) 2022 Laurence Svekis Content please contact me to find out more.</footer>
+<footer class="footer">Copyright (c) 2022 Content please contact me to find out more.</footer>
 </body>
 </html>
