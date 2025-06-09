@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Page</title>
+</head>
+<body>
+<p>
+Hello<br>World
+</p>
+<div>
+<h1>Hello World!</h1>
+<div>Welcome to my site.</div>
+<div>Welcome to my site.</div>
+<hr>
+<p>My name is <span>Laurence</span> <span></span>Svekis</span>.</p>
+</div>
+<hr>
+<h2>Heading 2</h2>
+<h4>Heading 4</h4>
+<h6>Heading 6</h6>
+<!-- Add another div here -->
+<!--
+<div>
+Content
+</div>
+-->
+</body>
+</html>
